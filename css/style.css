@@ -119,6 +119,7 @@ html,body{
     font-size: 0.75rem;
     font-weight: 600;
     color:#000000c0;
+    margin-left: 16px;
 
 }
 .input-box input::placeholder{
