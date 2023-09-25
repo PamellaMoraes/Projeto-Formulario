@@ -49,6 +49,8 @@ html,body{
 
 .form-header{
     margin-bottom:3rem;
+    padding-left: 16px;
+    padding-right: 16px;
     display: flex;
     justify-content: space-between;
 }
