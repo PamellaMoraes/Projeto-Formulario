@@ -100,7 +100,7 @@ html,body{
 }
 
 .input-box input{
-    margin:0.6rem 0;
+    margin:0.6rem 15px;
     padding: 0.8rem 1.2rem;
     border-radius: 10px;
     border:none;
